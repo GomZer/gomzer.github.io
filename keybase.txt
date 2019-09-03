@@ -1,15 +1,3 @@
-==================================================================
-https://keybase.io/gomzer
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of https://gomzer.tk
-  * I am gomzer (https://keybase.io/gomzer) on keybase.
-  * I have a public key ASBzvoxdaMcyLRS0I82UdsLwKtRne5KJOgF9xv7q_Y88kAo
-
-To do so, I am signing this object:
-
 {
   "body": {
     "key": {
@@ -43,14 +31,3 @@ To do so, I am signing this object:
   "seqno": 15,
   "tag": "signature"
 }
-
-which yields the signature:
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc76MXWjHMi0UtCPNlHbC8CrUZ3uSiToBfcb+6v2PPJAKp3BheWxvYWTESpcCD8QgF+XmAYGbPoUyxY9gbY/4/KPT8+u3N4w9ukKBHdiuwfzEINCEofmJJTWaN5NyDqC/ZQQLgMyBRC6oAuojt5aUMkDVAgHCo3NpZ8RActLi0IYCfCaYzSmZq4whqCPlpJ934a3XG50IcMeyv+ZCxjBK/v0v/zpyejgWikrajADpQlVXo3Fa7B7QsNbABqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINbTrstS5jvsYEFKDCxNKkNzZYX1CRXVDwklRb6DTnTMo3RhZ80CAqd2ZXJzaW9uAQ==
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/gomzer
-
-==================================================================
