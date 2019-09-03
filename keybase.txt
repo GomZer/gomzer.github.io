@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gomzer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gomzer.tk
+  * I am gomzer (https://keybase.io/gomzer) on keybase.
+  * I have a public key ASBzvoxdaMcyLRS0I82UdsLwKtRne5KJOgF9xv7q_Y88kAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca10e06506decff39017ad3a7a980e4c8458723eda3b6135d28095c7a4786f530a",
+      "host": "keybase.io",
+      "kid": "012073be8c5d68c7322d14b423cd9476c2f02ad4677b92893a017dc6feeafd8f3c900a",
+      "uid": "54a139759e1967acd58b86077e0efb19",
+      "username": "gomzer"
+    },
+    "merkle_root": {
+      "ctime": 1567519921,
+      "hash": "9557a76cf1ae1a1a3d1c407097a35ad4502eeffb7db7f47025c13a7ade63ef7c11f4a9ce1b7e8b7a136ce46d13b6d676cbb31dbfa25279ca82aec9336f7f9099",
+      "hash_meta": "0536515528fe795ad1856a4fee25cc398adcf252fe88714dafcd23ca65079086",
+      "seqno": 6158795
+    },
+    "service": {
+      "entropy": "hp5A69Fc9Jj8W2g371RsIVId",
+      "hostname": "gomzer.tk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1567519928,
+  "expire_in": 504576000,
+  "prev": "17e5e601819b3e8532c58f606d8ff8fca3d3f3ebb7378c3dba42811dd8aec1fc",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc76MXWjHMi0UtCPNlHbC8CrUZ3uSiToBfcb+6v2PPJAKp3BheWxvYWTESpcCD8QgF+XmAYGbPoUyxY9gbY/4/KPT8+u3N4w9ukKBHdiuwfzEINCEofmJJTWaN5NyDqC/ZQQLgMyBRC6oAuojt5aUMkDVAgHCo3NpZ8RActLi0IYCfCaYzSmZq4whqCPlpJ934a3XG50IcMeyv+ZCxjBK/v0v/zpyejgWikrajADpQlVXo3Fa7B7QsNbABqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINbTrstS5jvsYEFKDCxNKkNzZYX1CRXVDwklRb6DTnTMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gomzer
+
+==================================================================
