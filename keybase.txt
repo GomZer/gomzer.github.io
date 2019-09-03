@@ -1,0 +1,35 @@
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ca10e06506decff39017ad3a7a980e4c8458723eda3b6135d28095c7a4786f530a",
+      "host": "keybase.io",
+      "kid": "012073be8c5d68c7322d14b423cd9476c2f02ad4677b92893a017dc6feeafd8f3c900a",
+      "uid": "54a139759e1967acd58b86077e0efb19",
+      "username": "gomzer"
+    },
+    "merkle_root": {
+      "ctime": 1567518757,
+      "hash": "f0546e93d7fcf541bea5b882590b180be2fa88cf0917ae43312eaf8e60c6fb1b3a57d1a4e536d996c734e142469c5bd59f14fdcd527d0c73002f2fe8634d9e8f",
+      "hash_meta": "d9216f74a98fd14024f0f0e95579d22839782af69da9c6e2bb66831dce387371",
+      "seqno": 6158607
+    },
+    "sibkey": {
+      "fingerprint": "afe5a6e700ef6e0be51f1378ebda59c8be2d0b0a",
+      "full_hash": "d4168a48406cea4570614bf98f141be7a332f8526393910f535d35703361cf44",
+      "key_id": "EBDA59C8BE2D0B0A",
+      "kid": "0101ea7880be0a1405d0e405c21bf1886b35e1c11590cc1b299017a24ccd282f8cd20a",
+      "reverse_sig": "-----BEGIN PGP MESSAGE-----\nComment: https://keybase.io/download\nVersion: Keybase Go 4.3.2 (windows)\n\nxA0DAAoB69pZyL4tCwoBy+F0AOIAAAAA6nsiYm9keSI6eyJrZXkiOnsiZWxkZXN0\nX2tpZCI6IjAxMjBjYTEwZTA2NTA2ZGVjZmYzOTAxN2FkM2E3YTk4MGU0Yzg0NTg3\nMjNlZGEzYjYxMzVkMjgwOTVjN2E0Nzg2ZjUzMGEiLCJob3N0Ijoia2V5YmFzZS5p\nbyIsImtpZCI6IjAxMjA3M2JlOGM1ZDY4YzczMjJkMTRiNDIzY2Q5NDc2YzJmMDJh\nZDQ2NzdiOTI4OTNhMDE3ZGM2ZmVlYWZkOGYzYzkwMGEiLCJ1aWQiOiI1NGExMzk3\nNTllMTk2N2FjZDU4Yjg2MDc3ZTBlZmIxOSIsInVzZXJuYW1lIjoiZ29temVyIn0s\nIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTY3NTE4NzU3LCJoYXNoIjoiZjA1NDZl\nOTNkN2ZjZjU0MWJlYTViODgyNTkwYjE4MGJlMmZhODhjZjA5MTdhZTQzMzEyZWFm\nOGU2MGM2ZmIxYjNhNTdkMWE0ZTUzNmQ5OTZjNzM0ZTE0MjQ2OWM1YmQ1OWYxNGZk\nY2Q1MjdkMGM3MzAwMmYyZmU4NjM0ZDllOGYiLCJoYXNoX21ldGEiOiJkOTIxNmY3\nNGE5OGZkMTQwMjRmMGYwZTk1NTc5ZDIyODM5NzgyYWY2OWRhOWM2ZTJiYjY2ODMx\nZGNlMzg3MzcxIiwic2Vxbm8iOjYxNTg2MDd9LCJzaWJrZXkiOnsiZmluZ2VycHJp\nbnQiOiJhZmU1YTZlNzAwZWY2ZTBiZTUxZjEzNzhlYmRhNTljOGJlMmQwYjBhIiwi\nZnVsbF9oYXNoIjoiZDQxNjhhNDg0MDZjZWE0NTcwNjE0YmY5OGYxNDFiZTdhMzMy\nZjg1MjYzOTM5MTBmNTM1ZDM1NzAzMzYxY2Y0NCIsImtleV9pZCI6IkVCREE1OUM4\nQkUyRDBCMEEiLCJraWQiOiIwMTAxZWE3ODgwYmUwYTE0MDVkMGU0MDVjMjFiZjE4\nODZiMzVlMWMxMTU5MGNjMWIyOTkwMTdhMjRjY2QyODJmOGNkMjBhIiwicmV2ZXJz\nZV9zaWciOm51bGx9LCJ0eXBlIjoic2lia2V5IiwidmVyc2lvbiI6MX0sImNsaWVu\ndCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiNC4z\nLjIifSwiY3RpbWUiOjE1Njc1MTg3ODAsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJw\ncmV2IjoiOGU3YTE5MDNkZWMwZjVhNDI4MjA0YjVlZjgzMmZjNzkwYjgzN2U2YTk3\nOTNhZmFlZTUwOWJmZTA2YzYyYWVkNSIsInNlcW5vIjoxMSwidGFnIjrjInNpZ25h\ndHXicmUifQDCwVwEAAEKABAFAl1ucDwJEOvaWci+LQsKAAD3SxAAsU2L8WVXFGnm\n2rpYfY2ttNEQkf+2tdUovaZgnTijbHbBB6xLjczEsHFyLc1VM640aMSzAVbqRFvt\ny6NhvCzT1NUuXz0qrucjQWKSlayc8mS1UCsQMV9ZWelCrJJphoYN2qFkapIHEiR3\nnyOmYS1SsHAKAbXqlETA4W16JAiJrw9fyyJd7t0N2bc4JsW9NeFttgNAQgq3xPuT\nx3VCwqV2R8qnGp3P6NsZrkiczSBNhWpHGUK9cXhpkYI7FUJuUmaTVPSBdD+lq0Pv\n7ExR3Qjqo7yVXbA1N9y9JtBQ9cZrdUsoj6cCOEzPxAkp0qIp8SSUQjCxRVOVclk5\n/fnP6yvYQFqcKPlqx1V57QcJnwchypw9m9R8LZVIBkECYyFT8rl2A4zmYECfw1Rk\nLri62sxgBNKMpfydQkQ9LuKKcZaHiF+1APiskOOFJQia3oN2Hq5Ja6gG4t2mgH10\nsXMz3KxDZotJYLYHu8zpcv7P03lsmLfbfKIlc6EViMxhc/PwhLx/3mySNPuMgtz/\nuGOgoqQNOcMGXEPoLkLeEn34qBG5E+jDdOHiZwHgT4P1X3waMX1YUPnIP3bma/Yi\nJfvjMO80pS+DuJ5E9BLrHcQ92YnvK192sCNsTLgJvZfHXvRgOJcsDRhRAPxSzVda\nprJBsZ+9eEbeBdumpCocIga0/W8xVgQ=\n=5TgZ\n-----END PGP MESSAGE-----\n"
+    },
+    "type": "sibkey",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.3.2"
+  },
+  "ctime": 1567518780,
+  "expire_in": 504576000,
+  "prev": "8e7a1903dec0f5a428204b5ef832fc790b837e6a9793afaee509bfe06c62aed5",
+  "seqno": 11,
+  "tag": "signature"
+}
