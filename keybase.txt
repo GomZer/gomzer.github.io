@@ -1,3 +1,15 @@
+==================================================================
+https://keybase.io/gomzer
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gomzer.tk
+  * I am gomzer (https://keybase.io/gomzer) on keybase.
+  * I have a public key ASBzvoxdaMcyLRS0I82UdsLwKtRne5KJOgF9xv7q_Y88kAo
+
+To do so, I am signing this object:
+
 {
   "body": {
     "key": {
@@ -8,13 +20,13 @@
       "username": "gomzer"
     },
     "merkle_root": {
-      "ctime": 1567519921,
-      "hash": "9557a76cf1ae1a1a3d1c407097a35ad4502eeffb7db7f47025c13a7ade63ef7c11f4a9ce1b7e8b7a136ce46d13b6d676cbb31dbfa25279ca82aec9336f7f9099",
-      "hash_meta": "0536515528fe795ad1856a4fee25cc398adcf252fe88714dafcd23ca65079086",
-      "seqno": 6158795
+      "ctime": 1567520444,
+      "hash": "ca666e5b92beff385d72f42b30ede694899299d0b9adaa01412b745668e54458afe586b914aa001d8fa8f5c112c572ea6796a3847ebcf1af758283badb9c6e89",
+      "hash_meta": "89f2822d31cde18e6ea9e7a4a35c3c152007be802b81e8174d0ae72c7de0ad43",
+      "seqno": 6158898
     },
     "service": {
-      "entropy": "hp5A69Fc9Jj8W2g371RsIVId",
+      "entropy": "NLtQwz7cRdzELLACRx9D9gug",
       "hostname": "gomzer.tk",
       "protocol": "https:"
     },
@@ -25,9 +37,20 @@
     "name": "keybase.io go client",
     "version": "4.3.2"
   },
-  "ctime": 1567519928,
+  "ctime": 1567520456,
   "expire_in": 504576000,
-  "prev": "17e5e601819b3e8532c58f606d8ff8fca3d3f3ebb7378c3dba42811dd8aec1fc",
-  "seqno": 15,
+  "prev": "9d1cdfae2fea1f1a654a7559d5df107c0edf0e75560a5098e91a2f855b0198ab",
+  "seqno": 20,
   "tag": "signature"
 }
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgc76MXWjHMi0UtCPNlHbC8CrUZ3uSiToBfcb+6v2PPJAKp3BheWxvYWTESpcCFMQgnRzfri/qHxplSnVZ1d8QfA7fDnVWClCY6RovhVsBmKvEIFAsBLfR4pcS2Ee5tHSqoUdceD6t7P+6fKXR+P4Qz+BfAgHCo3NpZ8RAOq01LpUe4Qpx7Q1J/ylxaS3Me+7yXh6FIcCHac4LU+T/QrjTV9Wg9hS8VfaB/9uV7zLAI/KIHrvAr37ILpuwCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDV/ZU0zd74JBALGiGGuy32np9CENw3pemhF9njxW6P0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gomzer
+
+==================================================================
